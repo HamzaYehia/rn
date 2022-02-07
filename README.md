@@ -1,9 +1,9 @@
-## Simple program to rename files / directories in Terminal
+### Simple program to rename files / directories in Terminal
 
 ## Usage:
 
 rn old\ name new\ name
 
-## or:
+# or:
 
 rn "old name" "new name"
