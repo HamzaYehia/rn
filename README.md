@@ -4,6 +4,7 @@
 ## Linux Installation:
 
 make rn
+
 sudo mv rn /bin
 
 ## Usage:
