@@ -4,7 +4,7 @@
 ## Linux Installation:
 git clone https://github.com/HamzaYehia/rn
 
-make rn
+cd rn/ && make rn
 
 sudo mv rn /bin
 
