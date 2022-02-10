@@ -2,6 +2,7 @@
 
 
 ## Linux Installation:
+git clone https://github.com/HamzaYehia/rn
 
 make rn
 
