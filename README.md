@@ -6,7 +6,7 @@ git clone https://github.com/HamzaYehia/rn
 
 cd rn/ && make rn
 
-sudo mv rn /bin
+sudo mv rn /usr/bin
 
 ## Usage:
 
